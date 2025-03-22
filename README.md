@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Jason
 
 ## About Me  
-🌱 I’m learning **[IoT implementation through Microcontrollers, Circuit Design and Analysis, Control Systems]**   
+🌱 Interests **[IoT implementation through Microcontrollers, Circuit Design and Analysis, Control Systems]**   
 📫 Reach me at jasontheosalim@gmail.com
 
 ## 🛠️ Tech Stack  
